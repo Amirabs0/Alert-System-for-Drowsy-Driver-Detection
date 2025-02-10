@@ -4,10 +4,6 @@ A Python-based system for detecting driver drowsiness using real-time facial ana
 
 ---
 
-![Drowsy Driver Detection](https://via.placeholder.com/1000x300.png?text=IoT+Based+Smart+Alert+System)
-
----
-
 ## ✨ Features
 
 - Real-Time Eye Aspect Ratio (EAR) Detection
